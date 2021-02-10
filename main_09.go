@@ -9,12 +9,12 @@ func main() {
 //var result float32
 //var char rune
 //var isFound bool
-
+/*
 var chr rune
 chr = 'b'
 fmt.Println(chr)
 fmt.Printf("%c",chr)
-
+*/
 /*
   fmt.Println(name)
   fmt.Println(age)
